@@ -1,0 +1,44 @@
+# comment
+#E finish
+#I 127.0.0.1
+#P 26000
+#V 70
+finish
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+Patrick
+John
+Hello
+Hi
+It's nice
+morning
+dog
+horse
+cat
+computer
+It's a beautiful morning
+perfect
+opening
+closing
+Little Red Riding Hood
+Unity
+The sky is blue and the sun shines
+left
+right
+top
+low
+jump
+shoot
+1984
+2012
+1962
+1504

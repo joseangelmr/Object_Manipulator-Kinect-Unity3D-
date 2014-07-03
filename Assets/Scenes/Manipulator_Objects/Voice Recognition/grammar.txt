@@ -1,0 +1,49 @@
+# comment
+#E finish
+#I 127.0.0.1
+#P 26000
+#V 70
+finish
+Hola
+Gracias
+Cúbo
+Esfera
+Pelota
+Piramide
+Barra
+nuevá
+Listo
+Final
+Si
+No
+Siguiente
+Anterior
+hola esfera
+crear
+nuevo
+terminar
+next
+back
+create
+new
+delete
+not
+sí
+yes
+eliminar
+no eliminar
+si aceptar
+aceptar
+rechazar
+rechasar
+niu
+dili
+soltar
+Soltar
+dejar
+arrojar
+tirar
+lanzar
+atras
+esta bien
+

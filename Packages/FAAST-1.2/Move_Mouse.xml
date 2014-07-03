@@ -1,0 +1,133 @@
+<sensor>
+	<tracker>Microsoft</tracker>
+	<mode>Full Body</mode>
+	<mirrormode>true</mirrormode>
+	<smoothing>true</smoothing>
+	<smoothingfactor>0.5</smoothingfactor>
+	<correction>0.5</correction>
+	<prediction>0.5</prediction>
+	<jitter>0.05</jitter>
+	<deviation>0.04</deviation>
+</sensor>
+<server>
+	<transformations>Global coordinates</transformations>
+	<automaticassignment>true</automaticassignment>
+</server>
+<display>
+	<showviewerwindow>true</showviewerwindow>
+	<background>Depth</background>
+	<foreground>Depth</foreground>
+	<showconsolewindow>true</showconsolewindow>
+	<movechildwindows>true</movechildwindows>
+	<savewindowlayout>false</savewindowlayout>
+</display>
+<gestures>
+	<gesture name="Move_Up_Left" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>8</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>-10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Move_Up_Right" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>right hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>8</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>-10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Move_Down_Left" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>torso</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>40</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Move_Down_Right" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>right hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>torso</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>40</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Move_Left" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>to the left of</descriptor>
+			<descriptor>torso</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>40</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>-10</descriptor>
+			<descriptor>0</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Move_Right" timeout="0" enabled="true" outputloop="true" outputtimeout="0">
+		<input type="1">
+			<descriptor>right hand</descriptor>
+			<descriptor>to the right of</descriptor>
+			<descriptor>torso</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>40</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>0</descriptor>
+		</output>
+	</gesture>
+	<gesture name="Click_Hand_Right" timeout="0" enabled="true" outputloop="false" outputtimeout="0">
+		<input type="1">
+			<descriptor>right hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>5</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<output type="2">
+			<descriptor>press</descriptor>
+			<descriptor>left button</descriptor>
+			<descriptor>for</descriptor>
+			<descriptor>0</descriptor>
+		</output>
+	</gesture>
+</gestures>
+<plugins/>
+

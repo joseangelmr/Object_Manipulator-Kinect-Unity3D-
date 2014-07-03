@@ -1,0 +1,19 @@
+# comment
+#E finish
+#I 127.0.0.1
+#P 26000
+#V 70
+finish
+Hola
+Gracias
+Cúbo
+Esfera
+Pelota
+Piramide
+Barra
+
+cúbo
+caja
+soltar
+salir
+

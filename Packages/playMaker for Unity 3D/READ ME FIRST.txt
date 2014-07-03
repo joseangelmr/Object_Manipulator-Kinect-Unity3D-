@@ -1,0 +1,54 @@
+playMaker - Visual Scripting system - Version 1.7.7 (Feb 3, 2014) - Size: 3.6MB
+
+PLEASE SEED!!!!!!!!!!
+
+
+
+------------------
+
+BROUGHT TO YOU BY:
+
+TEAM ALPHA6 - UK
+
+***** ENGLAND'S ONE AND ONLY TEAM ********
+
+--------------------
+
+REQUIREMENTS:
+
+Minimum: Unity version 3.5.7
+Recommended: Unity version 4.2 or above
+
+
+--------------------
+
+Installation:
+
+Save the playmaker file anywhere on your harddrive
+
+1. Launch Unity
+2. Select the "Assets" tab
+3. Select "Import Package"
+4. Click "Custom Package"
+5. Browse and locate the playmaker file where you saved it, select it, and click "Open"
+6. Package will begin decompressing
+7. The Import Package window will open, click "Import"
+
+
+If you get a error that says: "There are inconsistent line endings in the '******.cs' script. 
+Some are Mac OS X (UNIX) and some are Windows."  This is easily fixed.
+
+Simply open the .cs file mentioned in the error (by double clicking on the console warning) and opening it
+with Monodevelop. Once the file is open, simply type "// blank" (without the quotes) any where in the script and
+click save. A popup will open asking if you want to "Convert" or not, click convert, and save. You can then erase
+the "// blank" you added and click save again, and exit out of Monodevelop.  The error should be gone.
+
+-------------
+
+http://hutonggames.com/
+
+Tutorials: http://hutonggames.com/tutorials_game_design_with_playmaker.php
+
+Plamaker Manual: https://hutonggames.fogbugz.com/default.asp?W1
+
+Playmaker Wiki: https://hutonggames.fogbugz.com/default.asp?W546

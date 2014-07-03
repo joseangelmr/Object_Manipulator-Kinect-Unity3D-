@@ -1,0 +1,43 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 02_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+newmtl 04_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl mat_03
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Alluminium_Noteb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF

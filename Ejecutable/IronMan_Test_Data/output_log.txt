@@ -1,0 +1,434 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon HD 7640G
+    Vendor:   ATI
+    VRAM:     2271 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.112 seconds
+desktop: 1280x720 60Hz; virtual: 2560x720 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon HD 7640G
+    Vendor:   ATI
+    VRAM:     2271 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+desktop: 1280x720 60Hz; virtual: 2560x720 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\System.Core.dll (this message is harmless)
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 3.252149 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 3.253229 ms (FindLiveObjects: 0.101511 ms CreateObjectMapping: 0.036176 ms MarkObjects: 1.149024 ms  DeleteObjects: 0.093952 ms)
+
+LoadLevel: Room_IronMan4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.709497 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 14472.
+Total: 17.708904 ms (FindLiveObjects: 1.193840 ms CreateObjectMapping: 0.625807 ms MarkObjects: 4.397393 ms  DeleteObjects: 9.732148 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 14.963774 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2152 unused Assets to reduce memory usage. Loaded Objects now: 1234.
+Total: 12.869288 ms (FindLiveObjects: 0.226781 ms CreateObjectMapping: 0.112310 ms MarkObjects: 1.828287 ms  DeleteObjects: 9.348781 ms)
+
+LoadLevel: Iron_Fly
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.439520 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1341.
+Total: 12.106332 ms (FindLiveObjects: 0.121489 ms CreateObjectMapping: 0.072893 ms MarkObjects: 1.625264 ms  DeleteObjects: 8.467035 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 2.070727 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1236.
+Total: 6.593391 ms (FindLiveObjects: 0.090172 ms CreateObjectMapping: 0.069114 ms MarkObjects: 1.656582 ms  DeleteObjects: 2.699775 ms)
+
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\alien_000\Desktop\IronMan_Test_Data\Managed\System.Core.dll (this message is harmless)
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 2.992430 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 3.622018 ms (FindLiveObjects: 0.090172 ms CreateObjectMapping: 0.035097 ms MarkObjects: 1.800210 ms  DeleteObjects: 0.057235 ms)
+
+LoadLevel: Iron_Fly
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.380665 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1333.
+Total: 12.992398 ms (FindLiveObjects: 0.106911 ms CreateObjectMapping: 0.037256 ms MarkObjects: 1.423321 ms  DeleteObjects: 10.072321 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.862304 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1232.
+Total: 6.759697 ms (FindLiveObjects: 0.116090 ms CreateObjectMapping: 0.041576 ms MarkObjects: 1.796430 ms  DeleteObjects: 2.674397 ms)
+
+LoadLevel: Room_IronMan4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.533472 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 14477.
+Total: 16.680290 ms (FindLiveObjects: 1.341248 ms CreateObjectMapping: 0.568032 ms MarkObjects: 4.424391 ms  DeleteObjects: 8.928696 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 17.001564 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2152 unused Assets to reduce memory usage. Loaded Objects now: 1234.
+Total: 17.716465 ms (FindLiveObjects: 0.233260 ms CreateObjectMapping: 0.138768 ms MarkObjects: 2.116083 ms  DeleteObjects: 13.263995 ms)
+
+LoadLevel: Room_IronMan4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.419001 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 14481.
+Total: 16.876295 ms (FindLiveObjects: 1.080990 ms CreateObjectMapping: 0.289415 ms MarkObjects: 4.036703 ms  DeleteObjects: 9.117142 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 14.701356 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2152 unused Assets to reduce memory usage. Loaded Objects now: 1234.
+Total: 18.224024 ms (FindLiveObjects: 0.240819 ms CreateObjectMapping: 0.502158 ms MarkObjects: 2.092325 ms  DeleteObjects: 13.449201 ms)
+
+LoadLevel: Room_IronMan4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.957337 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 14481.
+Total: 18.287737 ms (FindLiveObjects: 0.926562 ms CreateObjectMapping: 0.780775 ms MarkObjects: 3.915754 ms  DeleteObjects: 10.883874 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 18.516138 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2152 unused Assets to reduce memory usage. Loaded Objects now: 1234.
+Total: 15.158157 ms (FindLiveObjects: 0.212742 ms CreateObjectMapping: 0.432503 ms MarkObjects: 1.737035 ms  DeleteObjects: 11.346075 ms)
+
+LoadLevel: Room_IronMan4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.437900 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 14481.
+Total: 16.771544 ms (FindLiveObjects: 0.941141 ms CreateObjectMapping: 0.534555 ms MarkObjects: 4.441130 ms  DeleteObjects: 9.114442 ms)
+
+LoadLevel: Menu_2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 18.408688 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2152 unused Assets to reduce memory usage. Loaded Objects now: 1232.
+Total: 14.047470 ms (FindLiveObjects: 0.192763 ms CreateObjectMapping: 0.432503 ms MarkObjects: 1.700318 ms  DeleteObjects: 10.035064 ms)
+
+LoadLevel: MiniGame1_1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 1.342868 ms
+There should be only one active instance of the KinectSensor component at at time.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Exception: There should be only one active instance of the KinectSensor component at a time.
+  at KinectSensor.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 13.363887 ms (FindLiveObjects: 0.234880 ms CreateObjectMapping: 0.165766 ms MarkObjects: 1.852585 ms  DeleteObjects: 9.828261 ms)
+

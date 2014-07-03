@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: d321267eb9de8944fad164d62d2ea8f0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanHeadGizmo
+    100006: Base HumanLCalf
+    100008: Base HumanLCollarbone
+    100010: Base HumanLDigit11
+    100012: Base HumanLDigit11 1
+    100014: Base HumanLDigit12
+    100016: Base HumanLDigit12 1
+    100018: Base HumanLDigit13
+    100020: Base HumanLDigit21
+    100022: Base HumanLDigit22
+    100024: Base HumanLDigit23
+    100026: Base HumanLDigit31
+    100028: Base HumanLDigit32
+    100030: Base HumanLDigit33
+    100032: Base HumanLDigit41
+    100034: Base HumanLDigit42
+    100036: Base HumanLDigit43
+    100038: Base HumanLFoot
+    100040: Base HumanLForearm
+    100042: Base HumanLForearmGizmo
+    100044: Base HumanLPalm
+    100046: Base HumanLPalmGizmo
+    100048: Base HumanLPlatform
+    100050: Base HumanLThigh
+    100052: Base HumanLUpperarm
+    100054: Base HumanNeck1
+    100056: Base HumanNeck2
+    100058: Base HumanPelvis
+    100060: Base HumanPelvisGizmo
+    100062: Base HumanRCalf
+    100064: Base HumanRCollarbone
+    100066: Base HumanRDigit11
+    100068: Base HumanRDigit11 1
+    100070: Base HumanRDigit12
+    100072: Base HumanRDigit12 1
+    100074: Base HumanRDigit13
+    100076: Base HumanRDigit21
+    100078: Base HumanRDigit22
+    100080: Base HumanRDigit23
+    100082: Base HumanRDigit31
+    100084: Base HumanRDigit32
+    100086: Base HumanRDigit33
+    100088: Base HumanRDigit41
+    100090: Base HumanRDigit42
+    100092: Base HumanRDigit43
+    100094: Base HumanRFoot
+    100096: Base HumanRForearm
+    100098: Base HumanRForearmGizmo
+    100100: Base HumanRibcage
+    100102: Base HumanRPalm
+    100104: Base HumanRPalmGizmo
+    100106: Base HumanRPlatform
+    100108: Base HumanRThigh
+    100110: Base HumanRUpperarm
+    100112: Base HumanSpine1
+    100114: Base HumanSpine2
+    100116: Base HumanSpine3
+    100118: Base HumanSpine4
+    100120: Box001
+    100122: Camera001
+    100124: Camera001.Target
+    100126: Compass001
+    100128: Cylinder001
+    100130: Daylight001
+    100132: Line001
+    100134: Loft001
+    100136: Loft002
+    100138: Sky002
+    100140: //RootNode
+    100142: Sun002
+    100144: zbrushstickfigurBodysd
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanHeadGizmo
+    400006: Base HumanLCalf
+    400008: Base HumanLCollarbone
+    400010: Base HumanLDigit11
+    400012: Base HumanLDigit11 1
+    400014: Base HumanLDigit12
+    400016: Base HumanLDigit12 1
+    400018: Base HumanLDigit13
+    400020: Base HumanLDigit21
+    400022: Base HumanLDigit22
+    400024: Base HumanLDigit23
+    400026: Base HumanLDigit31
+    400028: Base HumanLDigit32
+    400030: Base HumanLDigit33
+    400032: Base HumanLDigit41
+    400034: Base HumanLDigit42
+    400036: Base HumanLDigit43
+    400038: Base HumanLFoot
+    400040: Base HumanLForearm
+    400042: Base HumanLForearmGizmo
+    400044: Base HumanLPalm
+    400046: Base HumanLPalmGizmo
+    400048: Base HumanLPlatform
+    400050: Base HumanLThigh
+    400052: Base HumanLUpperarm
+    400054: Base HumanNeck1
+    400056: Base HumanNeck2
+    400058: Base HumanPelvis
+    400060: Base HumanPelvisGizmo
+    400062: Base HumanRCalf
+    400064: Base HumanRCollarbone
+    400066: Base HumanRDigit11
+    400068: Base HumanRDigit11 1
+    400070: Base HumanRDigit12
+    400072: Base HumanRDigit12 1
+    400074: Base HumanRDigit13
+    400076: Base HumanRDigit21
+    400078: Base HumanRDigit22
+    400080: Base HumanRDigit23
+    400082: Base HumanRDigit31
+    400084: Base HumanRDigit32
+    400086: Base HumanRDigit33
+    400088: Base HumanRDigit41
+    400090: Base HumanRDigit42
+    400092: Base HumanRDigit43
+    400094: Base HumanRFoot
+    400096: Base HumanRForearm
+    400098: Base HumanRForearmGizmo
+    400100: Base HumanRibcage
+    400102: Base HumanRPalm
+    400104: Base HumanRPalmGizmo
+    400106: Base HumanRPlatform
+    400108: Base HumanRThigh
+    400110: Base HumanRUpperarm
+    400112: Base HumanSpine1
+    400114: Base HumanSpine2
+    400116: Base HumanSpine3
+    400118: Base HumanSpine4
+    400120: Box001
+    400122: Camera001
+    400124: Camera001.Target
+    400126: Compass001
+    400128: Cylinder001
+    400130: Daylight001
+    400132: Line001
+    400134: Loft001
+    400136: Loft002
+    400138: Sky002
+    400140: //RootNode
+    400142: Sun002
+    400144: zbrushstickfigurBodysd
+    2300000: Base HumanPelvisGizmo
+    2300002: Box001
+    2300004: Cylinder001
+    2300006: Loft001
+    2300008: Loft002
+    3300000: Base HumanPelvisGizmo
+    3300002: Box001
+    3300004: Cylinder001
+    3300006: Loft001
+    3300008: Loft002
+    4300000: zbrushstickfigurBodysd
+    4300002: Cylinder001
+    4300004: Loft001
+    4300006: Loft002
+    4300008: Base HumanPelvisGizmo
+    4300010: Box001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: zbrushstickfigurBodysd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
